@@ -5,6 +5,7 @@
     font-family: 'Nunito Sans', sans-serif;
     box-sizing: border-box;
     font-size: 20px;
+    
 
 }
 :root
@@ -38,7 +39,7 @@
     background-image: url("../../Imgs/Header/home-bg.jpg");
     height: 100vh;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
     
 }
